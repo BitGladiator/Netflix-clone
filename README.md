@@ -53,5 +53,5 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 This project is for educational purposes only and is not affiliated with Netflix.
 
 ---
-Made with ❤️ by [Your Name](https://github.com/BitGladiator)
+Made with ❤️ by Karan Sharma (https://github.com/BitGladiator)
 
