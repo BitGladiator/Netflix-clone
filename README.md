@@ -15,10 +15,6 @@ A fully responsive **Netflix Clone** built using only HTML and CSS. This project
 - **Frontend:** HTML5, CSS3  
 - **Styling:** CSS Grid, Flexbox, Media Queries  
 
-## 📸 Screenshots
-
-> Add relevant screenshots of your Netflix Clone UI here!
-
 ## 🛠 Installation & Setup
 
 1. Clone the repository:
@@ -29,7 +25,7 @@ A fully responsive **Netflix Clone** built using only HTML and CSS. This project
 2. Open the `index.html` file in your browser.
 
 ## 🌍 Live Demo
-[Click here to view the live demo](#) (Replace `#` with your deployed project link)
+[Click here to view the live demo](https://netflix-inspired-clone.vercel.app/)
 
 ## 📖 How It Works
 - Users can browse the Netflix-like homepage.
